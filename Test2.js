@@ -10,3 +10,5 @@ const json = `{"name" : "ore",
 }}`;
 
 console.log(JSON.parse(json).employer.company) //Consvertss a JSON Type to Normal
+
+console.log("check");
